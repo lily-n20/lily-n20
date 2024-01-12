@@ -9,6 +9,7 @@ I am an old soul that's passionate about technology :)
 Happy to have you here 😊
 
 Work Experience ⚡
+
 Undergraduate Teaching Assistant at University of Rhode Island - Joy of Programming (HTML, CSS, Javascript) [Rhode Island, Fall 2023 - Present]
 
 Interests 💬
