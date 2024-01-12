@@ -2,11 +2,10 @@
 
 My name is Lily 🌱
 
-I am a Computer Science student at the University of Rhode Island! 🌊
+* I am a Computer Science student at the University of Rhode Island! 🌊
+* I am an old soul that's passionate about technology :)
 
-I am an old soul that's passionate about technology :)
-
-Happy to have you here 😊
+* So happy to have you here 😊
 
 Work Experience ⚡
 
