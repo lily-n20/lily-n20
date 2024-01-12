@@ -10,7 +10,8 @@ So happy to have you here 😊
 Work Experience ⚡
 
 * Undergraduate Teaching Assistant at University of Rhode Island - Joy of Programming (HTML, CSS, Javascript) [Rhode Island, Fall 2023 - Present]
-
+* Undergraduate Research + Project Assistant at Accessible Security and Safety Technologies Group @ URI [Rhode Island, Fall 2023 - Present]
+  
 Interests 💬
 
 * Making CS fun! and approachable ;0
