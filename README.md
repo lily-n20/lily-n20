@@ -3,7 +3,7 @@
 My name is Lily 🌱
 
 * I am a Computer Science student at the University of Rhode Island! 🌊
-* I am an old soul that's passionate about technology :)
+* I am an old soul passionate about technology, for people :)
 
 So happy to have you here 😊
 
