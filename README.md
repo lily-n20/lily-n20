@@ -19,7 +19,7 @@ Interests 💬
 
 Contact 📫
 
-* Feel free to contact me!
+Feel free to contact me!
 
 * Email: lily.ngn001@gmail.com
 
